@@ -122,7 +122,7 @@ if ($i == 0){
 
 13. Resposta e) Soluçar.
 
-14. Resposta b) Se ninguém compareceu, então nada deu errado.
+14. Resposta d) Se nada deu errado, então alguém não compareceu.
 
 15. Resposta e) Seu autor tem pelo menos um filho do sexo masculino.
 
