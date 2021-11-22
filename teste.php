@@ -124,7 +124,7 @@ if ($i == 0){
 
 14. Resposta b) Se ninguém compareceu, então nada deu errado.
 
-15. Resposta b) Seu autor casou-se apenas uma vez.
+15. Resposta e) Seu autor tem pelo menos um filho do sexo masculino.
 
 
 
